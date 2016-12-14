@@ -20,15 +20,15 @@ tiles-count: 6
 
 # Social settings
 500px_url:
-facebook_url:"https://facebook.com"
+facebook_url: href="https://facebook.com"
 github_url:
 gitlab_url: 
-googleplus_url: "https://facebook.com"
+googleplus_url: href="https://facebook.com"
 instagram_url: 
-linkedin_url: "https://facebook.com"
+linkedin_url: href="https://facebook.com"
 pinterest_url:
 slack_url:
-twitter_url: "https://facebook.com"
+twitter_url: href="https://facebook.com"
 
 # Build settings
 markdown: kramdown
