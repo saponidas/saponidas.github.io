@@ -1,18 +1,18 @@
 
 # Site settings
 title: CISO SERVICE
-subtitle: by A.N.Consulting
+subtitle: Consultoría
 email: saponidas@gmail.com
 description: Web de la compañía CISO SERVICE<br />Consultoría en ENS y LOPD
 baseurl: "/saponidas.github.io" # the subpath of your site, e.g. /blog
 url: "https://saponidas.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Sample street
+city: Ciudad
+state: Provincia
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Spain
+phone: +0034 111222333
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
