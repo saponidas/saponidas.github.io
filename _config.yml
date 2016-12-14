@@ -4,7 +4,7 @@ title: CISO SERVICE
 subtitle: Consultoría
 email: saponidas@gmail.com
 description: Web de la compañía CISO SERVICE<br />Consultoría en ENS y LOPD
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/saponidas.github.io" # the subpath of your site, e.g. /blog
 url: "https://saponidas.github.io" # the base hostname & protocol for your site
 author:
 street_address: Sample street
