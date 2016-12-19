@@ -3499,12 +3499,13 @@
 		@media screen and (max-width: 736px) {
 
 			#banner {
+				background-position: left top;
 				padding: 5em 0 1em 0 ;
 				height: auto;
-				margin-bottom: -2.75em;
+				margin-bottom: -8.75em;
 				max-height: none;
 				min-height: 0;
-				top: -2.75em;
+				top: -6.75em;
 			}
 
 				#banner h1 {
