@@ -2,7 +2,7 @@
 layout: post
 title: Estándars
 description: Avanza con los estándars
-image: assets/images/pic66_3-min.jpg
+image: assets/images/pic66_5-min.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
