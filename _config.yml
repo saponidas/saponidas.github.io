@@ -1,9 +1,9 @@
 
 # Site settings
-title: CISO SERVICE
-subtitle: Consultoría
-email: saponidas@gmail.com
-description: Web de la compañía CISO SERVICE<br />Consultoría en ENS y LOPD
+title: TITLE
+subtitle: SUBTITLE
+email: your@email.com
+description: JEKYLL SITE<br />Running on Git Hub pages
 baseurl: "/saponidas.github.io" # the subpath of your site, e.g. /blog
 url: "https://saponidas.github.io" # the base hostname & protocol for your site
 author:
