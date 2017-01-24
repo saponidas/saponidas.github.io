@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Inicio
-landing-title: 'Servicios en Seguridad de la Información'
+landing-title: 'Jekyll site'
 description: null
 image: null
 author: null
