@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estándars
-description: Avanza con los estándars
+description: POst 2
 image: assets/images/pic66_5-min.jpg
 ---
 
